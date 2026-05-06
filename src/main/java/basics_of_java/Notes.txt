@@ -1,0 +1,39 @@
+JAVA Basics
+
+1.Variable
+2.Data Types
+3.Loops
+    For
+    While
+    Do While
+4.Flow Control
+    If Else
+    Else If
+    If If
+    Break
+    Switch
+5.String,Array ,Final super keywords
+6.OOPS
+    Methods
+    Constructor
+    Class
+    Constructor
+    Object
+    Polymorphism
+    Abstract
+    Inheritance
+    Interface
+    Encapsulation
+    Casting
+7.Collection
+    Arraylist
+    Hashmap
+    Hashset
+    List
+8.Exception Handling
+    Try Catch
+9.Accessmodifires
+
+
+
+
